@@ -25,10 +25,6 @@ license: Apache-2.0
 sourceUrl: https://github.com/firebase/extensions/tree/master/storage-resize-images
 releaseNotesUrl: https://github.com/firebase/extensions/blob/master/storage-resize-images/CHANGELOG.md
 
-author:
-  authorName: Firebase12345
-  url: https://firebase.google.com
-
 contributors:
   - authorName: Tina Liang
     url: https://github.com/tinaliang
