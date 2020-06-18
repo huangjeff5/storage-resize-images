@@ -1,7 +1,7 @@
 {
   "name": "storage-resize-images",
   "description": "Resized Image Generator for Firebase",
-  "author": "Firebase12345",
+  "author": "Firebase12345123412341234",
   "license": "Apache-2.0",
   "main": "functions/lib/index.js",
   "scripts": {
